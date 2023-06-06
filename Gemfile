@@ -50,7 +50,7 @@ gem "unpwn", "~> 1.0"
 gem "webauthn", "~> 3.0"
 
 # Admin dashboard
-gem "avo", "~> 2.28"
+gem "avo", "~> 2.33"
 gem "pundit", "~> 2.3"
 gem "chartkick", "~> 5.0"
 gem "groupdate", "~> 6.2"
